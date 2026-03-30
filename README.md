@@ -44,6 +44,7 @@
 
 These servers aim to demonstrate MCP features and the TypeScript and Python SDKs.
 
+- **[eustore.dev](https://github.com/AIBOLLINGMO/eustore-mcp-server)** - Autonomous infrastructure for AI agents: MCP server hosting, S3 storage, and semantic vector database. Free tier: 3 MCP servers, unlimited vectors, 5GB storage. EU-hosted, GDPR-compliant.
 - **[Everything](https://github.com/modelcontextprotocol/servers/blob/main/src/everything)** - Reference / test server with prompts, resources, and tools
 - **[Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Web content fetching and conversion for efficient LLM usage
 - **[Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** - Secure file operations with configurable access controls
